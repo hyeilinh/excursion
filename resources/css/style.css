@@ -8,5 +8,31 @@ h1 {
 
 h5 {
     color: aquamarine;
+    font-family: Verdana;
     font-size: 16px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: Verdana;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h4 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-family: verdana;
+}
+
+body {
+    background-color: black;
+    text-align: center;
 }
